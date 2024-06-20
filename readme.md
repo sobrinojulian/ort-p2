@@ -65,3 +65,15 @@
 ![](/assets/composite-bonus-track.png)
 
 </details>
+
+## Fabrica de Juguetes (Factory)
+
+<details>
+<summary>Ver</summary>
+
+- [Draw.io](/assets/factory.drawio)
+
+![](/assets/factory-clases.png)
+![](/assets/factory-secuencia.png)
+
+</details>
