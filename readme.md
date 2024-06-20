@@ -88,3 +88,15 @@
 ![](/assets/command-clases.png)
 
 </details>
+
+## Logistica (Adapter)
+
+<details>
+<summary>Ver</summary>
+
+- [Draw.io](/assets/adapter.drawio)
+
+![](/assets/adapter-clases.png)
+![](/assets/adapter-secuencia.png)
+
+</details>
