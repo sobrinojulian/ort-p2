@@ -1,7 +1,9 @@
 # ORT - Programación 2
+
 > Integrantes: Roveli Juan Pablo, Sobrino Julian, Biorci Sebastian, Collado Alejandro
 
 ## Cine (Repaso)
+
 <details>
 <summary>Ver</summary>
 
@@ -13,8 +15,8 @@
 
 </details>
 
-
 ## Tamagotchi (State)
+
 <details>
 <summary>Ver</summary>
 
@@ -27,7 +29,27 @@
 
 ## Mc Chombos (Composite)
 
+<details>
+<summary>Ver</summary>
+
 - [Draw.io](/assets/composite.drawio)
 
-![](/assets/composite-clases.png)
-![](/assets/composite-secuencia.png)
+![](/assets/composite-diagrama-de-clases.png)
+
+### Primera Parte
+
+![](/assets/composite-1ra-parte.png)
+
+### Segunda Parte
+
+![](/assets/composite-2da-parte.png)
+
+### Cuarta Parte
+
+![](/assets/composite-4ta-parte.png)
+
+### Bonus Track
+
+![](/assets/composite-bonus-track.png)
+
+</details>
