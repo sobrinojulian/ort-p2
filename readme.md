@@ -77,3 +77,14 @@
 ![](/assets/factory-secuencia.png)
 
 </details>
+
+## Editor de Texto (Command)
+
+<details>
+<summary>Ver</summary>
+
+- [Draw.io](/assets/command.drawio)
+
+![](/assets/command-clases.png)
+
+</details>
