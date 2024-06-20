@@ -27,6 +27,18 @@
 
 </details>
 
+## Sueldos (Strategy)
+
+<details>
+<summary>Ver</summary>
+
+- [Draw.io](/assets/strategy.drawio)
+
+![](/assets/strategy-clases.png)
+![](/assets/strategy-secuencia.png)
+
+</details>
+
 ## Mc Chombos (Composite)
 
 <details>
