@@ -100,3 +100,18 @@
 ![](/assets/adapter-secuencia.png)
 
 </details>
+
+## Integrador (Veterinaria)
+
+<details>
+<summary>Ver</summary>
+
+- [Draw.io](/assets/integrador.drawio)
+
+![](/assets/integrador-clases.png)
+![](/assets/integrador-secuencia-01.png)
+![](/assets/integrador-secuencia-02.png)
+![](/assets/integrador-secuencia-03.png)
+![](/assets/integrador-secuencia-04.png)
+
+</details>
